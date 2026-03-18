@@ -1,0 +1,9 @@
+ccxt
+pandas
+numpy
+requests
+ta-lib
+matplotlib
+plotly
+scikit-learn
+requests-oauthlib
